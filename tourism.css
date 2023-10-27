@@ -1,0 +1,72 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap");
+.navbar-brand {
+    color:rebeccapurple;
+    font-weight: bold;
+   transition: 0.3ms;
+  
+  }
+  
+  .navbar-brand:hover {
+    color: rgb(141, 7, 7);
+    color: rgb(251, 61, 93);
+   transition: 0.3ms;
+  }
+
+.mainheading{
+    color: rgb(7, 80, 28);
+}
+
+.mainheading:hover{
+color: rgb(212, 134, 32);
+
+}
+
+.buttons{
+    color: rgb(5, 80, 5);
+}
+
+.image-size{
+    height: 500px;
+    width: 400px;
+    align-self: center;
+    border-radius: 20px;
+}
+
+.explore-menu-section {
+    background-color: white;
+  }
+  .menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .menu-item-image {
+    border-radius: 16px;
+  }
+  .menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .menu-item-card {
+    border-radius: 16px;
+  }
+
+  .bhai{
+    color: rgb(11, 78, 11);
+  }
+
+  .bhai:hover{
+    color: rgb(168, 82, 16);
+  }
+
