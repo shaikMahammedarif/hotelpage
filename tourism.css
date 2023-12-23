@@ -20,7 +20,13 @@
 .mainheading:hover{
 color: rgb(212, 134, 32);
 
+}.github_link{
+text-align:center;
+text-decoration:none;
+display:flex;
+justify-content:center;
 }
+
 
 .buttons{
     color: rgb(5, 80, 5);
@@ -69,4 +75,10 @@ color: rgb(212, 134, 32);
   .bhai:hover{
     color: rgb(168, 82, 16);
   }
+.github_link{
+text-align:center;
+text-decoration:none;
+display:flex;
+justify-content:center;
+}
 
