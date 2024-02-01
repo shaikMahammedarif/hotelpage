@@ -63,6 +63,7 @@ justify-content:center;
     font-family: "Roboto";
     font-size: 14px;
     font-weight: 500;
+    text-decoration: none;
   }
   .menu-item-card {
     border-radius: 16px;
@@ -82,3 +83,6 @@ display:flex;
 justify-content:center;
 }
 
+a{
+    text-decoration: none;
+}
